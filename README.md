@@ -22,8 +22,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="![image](https://github.com/user-attachments/assets/467fc9b9-5534-4364-a148-2219f20ecc64)
-" />
+<img align="right" height="270px" alt="GIF" src="https://tenor.com/es-419/view/typing-code-linux-computer-elliot-alderson-gif-10667985" />
 
 ### I am a software developer
 - 🔭 I’m currently working on my Portfolio Website :grin:
