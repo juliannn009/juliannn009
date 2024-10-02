@@ -102,35 +102,5 @@
 
 <br>
 
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
-<!--END_SECTION:activity-->
-
-<br>
-
-### 📊 &nbsp; STATS
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.4 million Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
-|🌆 Daytime                |176 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.67%|
-|🌃 Evening                |147 commits         |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|30.63%|
-|🌙 Night                  |25 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.21%|
-| | | | |
-
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
 
 
