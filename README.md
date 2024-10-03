@@ -22,7 +22,7 @@
 
 <br>
 
-<iframe src="https://giphy.com/embed/lo4hWSPgBJLlUjGYeK" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NoiseNest-nnn-noise-nest-donut-baby-lo4hWSPgBJLlUjGYeK">via GIPHY</a></p>
+<img align="right" height="270px" alt="GIF" src="https://i.gifer.com/PNgH.gif" />
 
 ### I am a software developer
 - 🔭 I’m currently working on my Portfolio Website :grin:
