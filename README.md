@@ -97,7 +97,10 @@ const pc_specs = {
     procesador: "ryzen 5 5600g",
     Targeta_grafica: [RTX 3060TI],
     RAM: ["32GB ram 3600mhz"],
-    SSD_SATA: ["1 TERAYTE"],
+    SSD_SATA: ["1 TERABYTE"],
+    M.2: ["250GB"],
+    FUENTE: ["80PLUS 650W"],
+    MOTHERBOARD: [" asus prime a520m-a II"],
    
 };
 ```
