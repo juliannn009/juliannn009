@@ -22,7 +22,8 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://tenor.com/SVor.gif" />
+<img align="right" height="270px" alt="GIF" src="![image](https://github.com/user-attachments/assets/0b206aeb-f593-4ad6-805f-638bb35cd91e)
+" />
 
 ### I am a software developer
 - 🔭 I’m currently working on my Portfolio Website :grin:
