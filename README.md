@@ -93,6 +93,5 @@
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
 
-<img align="center" alt="visitors" src="![image](https://github.com/user-attachments/assets/8e99e9c8-0d94-4993-9d6b-a3e7a12845a1)
-" />
+<img align="center"  src="https://www.coresentinel.com/wp-content/uploads/2017/06/kali.png" />
 
